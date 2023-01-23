@@ -1,0 +1,424 @@
+{
+"products":[
+    {
+        "image":"https://media.blueapron.com/recipes/32256/centered_main_dish_images/1671562322-49-0047-7355/0130_2P9_Sweet-Spicy-Shrimp_133_Web.jpg?quality=80&width=800",
+        "id":1,
+        "name":"Sweet & Spicy Shrimp",
+        "desc":"with Brown Rice, Cilantro Sauce & Peanuts",
+        "details":"Here, plump shrimp and tender bok choy are sautéed in a creamy, flavorful sauce featuring honey, spicy bird's eye chile pepper, tamarind paste—made from the pleasantly sour, sticky fruit of the tropical tamarind tree—and more. You'll serve it all over a hearty bed of brown rice and top it off with a drizzle of herbaceous cilantro sauce.",
+        "time":"30",
+        "category":"signature",
+        "price":"150",
+        "calories":"710"
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/35773/square_newsletter_images/1671562636-49-0050-1352/0130_2P11_Oven-Baked-Turkey-Bolognese_194_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":2,
+        "name":"Oven-Baked Turkey Bolognese",
+        "desc":"with Tomatoes & Mozzarella",
+        "details":"Featuring pre-chopped ingredients and a recyclable baking tin, our Ready to Cook recipes make prep and cleaning a breeze. Just assemble, bake, and enjoy! To add a bit of heat to this take on the classic Italian meat sauce—which features delightfully curly cavatappi, juicy tomatoes, and melty mozzarella cheese—you’ll stir in Calabrian chile paste, a specialty product made with fragrant red chiles from Calabria, a region in southern Italy.",
+        "time":"50",
+        "category":"signature",
+        "price":"299",
+        "calories":"790"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36134/square_newsletter_images/1671535752-10429-0004-6045/0130_2PV1_Paneer-Curry_104_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":3,
+        "name":"Paneer & Vegetable Curry",
+        "desc":"with Coconut, Spinach & Tomatoes",
+        "details":"In this hearty vegetarian dish, browned paneer cheese, blistered tomatoes, and sweet coconut milk combine with vadouvan curry powder for a bold and vibrant medley. It's served beside fluffy white rice to soak up every bit of the bright, bold curry.",
+        "time":"25",
+        "category":"signature",
+        "price":"210",
+        "calories":"520"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36352/square_newsletter_images/1671559397-51-0036-5068/0130_2P19_Shawarma-Spiced-Lamb-Pitas_556_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":4,
+        "name":"Shawarma-Spiced Lamb Pitas",
+        "desc":"with Tzatziki, Feta Cheese & Mint",
+        "details":"We're calling on the bold flavors of Middle Eastern cuisine by mixing a blend of classic shawarma spices into our lamb patties—layered onto hearty pitas alongside creamy tzatziki, marinated cucumbers and onion, tangy feta, and more. We're serving them with a side salad of arugula, dates, and walnuts tossed in a vibrant harissa-honey dressing.",
+        "time":"35",
+        "category":"signature",
+        "price":"290",
+        "calories":"1130"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36566/square_newsletter_images/1671562477-50-0072-7384/0822_2P10_Hot-Italian-Sausage-Pasta__031_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":5,
+        "name":"Italian Pork Sausage & Broccoli Pasta",
+        "desc":"with Fried Sage",
+        "details":"To complement tender bites of mafalda pasta, you’ll fry fresh sage leaves until delicately crispy, then use its aromatic oil to cook spicy pork sausage (finished with cream) for layers of herbaceous flavor in every bite. A garnish of parmesan lends savory finish to the final dish.",
+        "time":"25",
+        "category":"signature",
+        "price":"250",
+        "calories":"900"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36572/square_newsletter_images/1671556896-51-0001-8651/0130_2PP_Italian-Chicken-Caper_548_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":6,
+        "name":"Italian Chicken & Pepper Pan Sauce",
+        "desc":"with Mashed Potatoes & Green Beans",
+        "details":"Here, seared chicken gets a lift from a piquant pan sauce featuring pickled peppers, garlic, briny capers, and more. You'll serve the chicken alongside hearty sides of mashed potatoes and verdant green beans.",
+        "time":"45",
+        "category":"signature",
+        "price":"190",
+        "calories":"620"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36576/square_newsletter_images/1671559147-51-0031-4549/0130_2P12_Seared-Shrimp-Pancetta-Fettuccine_219_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":7,
+        "name":"Seared Shrimp & Pancetta Fettuccine",
+        "desc":"with Roasted Vegetables, Ricotta & Pistachios",
+        "details":"Tender shrimp and savory pancetta come together with ribbons of fresh basil fettuccine and sautéed spinach in a simple, flavorful garlic-herb butter sauce.",
+        "time":"45",
+        "category":"signature",
+        "price":"270",
+        "calories":"980"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36604/square_newsletter_images/1671536272-11965-0006-0409/0130_2PV2_Oven-Baked-Tomatillo-Rice-Beans_239_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":8,
+        "name":"Oven-Baked Cilantro Rice & Bean Tacos",
+        "desc":"with Tomatoes, Jalapeño & Guacamole",
+        "details":"Featuring pre-chopped ingredients and a recyclable baking tin, our Ready to Cook recipes make prep and cleaning a breeze. Just assemble, bake, and enjoy! In this dish, rice, black beans, spinach, and more are coated in our herbaceous cilantro sauce before being baked under a layer of melty cheese, then topped with creamy dollops of sour cream and guacamole.",
+        "time":"50",
+        "category":"signature",
+        "price":"270",
+        "calories":"980"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36606/square_newsletter_images/1671557503-50-0007-7173/1118_2PF_WW02_Togarishi-Tilapia-Garlic-Rice_338_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":9,
+        "name":"Togarashi Tilapia & Garlic Rice",
+        "desc":"with Marinated Cucumbers & Bell Pepper",
+        "details":"In this Japanese-style dish, flaky tilapia fillets get deep, bold flavor from a coating of vibrant togarashi—a staple of the cuisine that highlights poppy seeds, dried orange peel, and more. For cooling contrast, we are topping it with crisp marinated vegetables, then drizzling it all with an irresistible combo of creamy mayo and citrusy ponzu sauce.",
+        "time":"25",
+        "category":"signature",
+        "price":"180",
+        "calories":"610"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36134/square_newsletter_images/1671535752-10429-0004-6045/0130_2PV1_Paneer-Curry_104_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":11,
+        "name":"Paneer & Vegetable Curry",
+        "desc":"with Coconut, Spinach & Tomatoes",
+        "details":"In this hearty vegetarian dish, browned paneer cheese, blistered tomatoes, and sweet coconut milk combine with vadouvan curry powder for a bold and vibrant medley. It's served beside fluffy white rice to soak up every bit of the bright, bold curry.",
+        "time":"25",
+        "category":"vegetarian",
+        "price":"150",
+        "calories":"520"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36604/square_newsletter_images/1671536272-11965-0006-0409/0130_2PV2_Oven-Baked-Tomatillo-Rice-Beans_239_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":12,
+        "name":"Oven-Baked Cilantro Rice & Bean Tacos",
+        "desc":"with Tomatoes, Jalapeño & Guacamole",
+        "details":"Featuring pre-chopped ingredients and a recyclable baking tin, our Ready to Cook recipes make prep and cleaning a breeze. Just assemble, bake, and enjoy! In this dish, rice, black beans, spinach, and more are coated in our herbaceous cilantro sauce before being baked under a layer of melty cheese, then topped with creamy dollops of sour cream and guacamole.",
+        "time":"50",
+        "category":"vegetarian",
+        "price":"250",
+        "calories":"980"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36604/square_newsletter_images/1671536272-11965-0006-0409/0130_2PV2_Oven-Baked-Tomatillo-Rice-Beans_239_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":13,
+        "name":"Paneer & Vegetable Curry",
+        "desc":"with Coconut, Spinach & Tomatoes",
+        "details":"In this hearty vegetarian dish, browned paneer cheese, blistered tomatoes, and sweet coconut milk combine with vadouvan curry powder for a bold and vibrant medley. It's served beside fluffy white rice to soak up every bit of the bright, bold curry.",
+        "time":"25",
+        "category":"vegetarian",
+        "price":"160",
+        "calories":"520"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36678/square_newsletter_images/1671540160-10429-0039-5765/0215_2PV1_Red-Pepper-Pasta_097_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":14,
+        "name":"Roasted Red Pepper Pasta",
+        "desc":"with Broccoli & Parmesan Cheese",
+        "details":"To give this pasta irresistible depth of flavor, you’ll make a tomato and cream sauce featuring capers, garlic, sweet roasted peppers, and just a touch of Calabrian chile paste (for a mild kick). It’s tossed with lumaca rigata, which is perfect for catching every saucy bite. It's served alongside broccoli piled atop a delightful swoosh of creamy ricotta cheese.",
+        "time":"25",
+        "category":"vegetarian",
+        "price":"190",
+        "calories":"740"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/35823/square_newsletter_images/1672775108-49-0029-1367/0206_2PV2_White-Bean-Shakshuka_565_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":15,
+        "name":"Oven-Baked White Bean Shakshuka",
+        "desc":"with Garlic Pitas",
+        "details":"Featuring pre-chopped ingredients and a recyclable baking tin, our Ready to Cook recipes make prep and cleaning a breeze. Just assemble, bake, and enjoy! For this vibrant shakshuka, we’re nestling rich eggs between a mix of white beans, spinach, and a creamy tomato sauce. You'll top the dish with tangy parmesan and serve it alongside warm garlic and herb pitas.",
+        "time":"25",
+        "category":"vegetarian",
+        "price":"210",
+        "calories":"760"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36638/square_newsletter_images/1672774503-48-0018-7296/0909_2PV2_Flautas_213_Square_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":16,
+        "name":"Black Bean & Smoked Gouda Flautas",
+        "desc":"with Tomatillo Sour Cream",
+        "details":"This take on the classic Mexican dish (whose name is a reference to its flute-like shape) features flour tortillas stuffed with a creamy black bean filling, then tightly rolled and lightly pan fried on all sides for satisfying crunch.",
+        "time":"35",
+        "category":"vegetarian",
+        "price":"190",
+        "calories":"780"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36639/square_newsletter_images/1672774881-49-0023-4536/1125_2PV2_Gnocchi-Pesto_135_2_SQ__Web.jpg?quality=80&width=850&format=pjpg",
+        "id":17,
+        "name":"Pesto Gnocchi",
+        "desc":"with Mushrooms & Pistachio Breadcrumbs",
+        "details":"This textured dish highlights an exciting contrast of irresistibly crispy pistachio breadcrumbs that we’re sprinkling atop pillowy gnocchi. The pasta is tossed in our vibrant basil pesto and paired with a savory sautéed duo of mushrooms and tomatoes.",
+        "time":"25",
+        "category":"vegetarian",
+        "price":"220",
+        "calories":"890"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36642/square_newsletter_images/1672776181-49-0033-7698/0620_2PV3_Sweet-Chili-Veg_328_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":18,
+        "name":"Sweet Chili Roasted Vegetables",
+        "desc":"with Brown Rice & Cilantro-Yogurt Sauce",
+        "details":"To top a simple bed of brown rice, we’re bringing together a trio of roasted bell pepper, zucchini, and vadouvan-spiced cauliflower with vibrant sweet chili sauce—a popular condiment that tempers spicy red chili with vinegar, sugar, and more. It’s all finished with a drizzle of cooling yogurt mixed with our herbaceous cilantro sauce.9 Points value per servingTo learn more about WW's Points program, visit ww.com",
+        "time":"35",
+        "category":"vegetarian",
+        "price":"150",
+        "calories":"480"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36604/square_newsletter_images/1671536272-11965-0006-0409/0130_2PV2_Oven-Baked-Tomatillo-Rice-Beans_239_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":19,
+        "name":"Oven-Baked Cilantro Rice & Bean Tacos",
+        "desc":"with Tomatoes, Jalapeño & Guacamole",
+        "details":"Featuring pre-chopped ingredients and a recyclable baking tin, our Ready to Cook recipes make prep and cleaning a breeze. Just assemble, bake, and enjoy! In this dish, rice, black beans, spinach, and more are coated in our herbaceous cilantro sauce before being baked under a layer of melty cheese, then topped with creamy dollops of sour cream and guacamole.",
+        "time":"50",
+        "category":"vegetarian",
+        "price":"250",
+        "calories":"980"    
+    },
+    {
+        "image":"https://media.blueapron.com/recipes/36578/square_newsletter_images/1671559754-50-0034-0983/0130_FP07_Seared-Shrimp-Pancetta-Fettuccine_215_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":50,
+        "name":"Seared Shrimp & Pancetta Fettuccine",
+        "desc":"with Roasted Vegetables, Ricotta & Pistachios",
+        "details":"Tender shrimp and savory pancetta come together with ribbons of fresh basil fettuccine and sautéed spinach in a simple, flavorful garlic-herb butter sauce.",
+        "time":"45",
+        "category":"Signature for Four",
+        "price":"1099",
+        "calories":"850"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36237/square_newsletter_images/1671562849-51-0076-3329/0130_FP5_Oven-Baked-Turkey-Bolognese_187_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":51,
+        "name":"Oven-Baked Turkey Bolognese",
+        "desc":"with Tomatoes & Mozzarella",
+        "details":"Featuring pre-chopped ingredients and a recyclable baking tin, our Ready to Cook recipes make prep and cleaning a breeze. Just assemble, bake, and enjoy! To add a bit of heat to this take on the classic Italian meat sauce—which features delightfully curly cavatappi, juicy tomatoes, and melty mozzarella cheese—you’ll stir in Calabrian chile paste, a specialty product made with fragrant red chiles from Calabria, a region in southern Italy.",
+        "time":"50",
+        "category":"Signature for Four",
+        "price":"1299",
+        "calories":"770"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36605/square_newsletter_images/1671544108-27270-0069-7296/0130_FP6_Oven-Baked-Tomatillo-Rice-Beans_234_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":52,
+        "name":"Oven-Baked Cilantro Rice & Bean Tacos ",
+        "desc":"with Tomatoes, Jalapeño & Guacamole ",
+        "details":"Featuring pre-chopped ingredients and a recyclable baking tin, our Ready to Cook recipes make prep and cleaning a breeze. Just assemble, bake, and enjoy! In this dish, rice, black beans, spinach, and more are coated in our herbaceous cilantro sauce before being baked under a layer of melty cheese, then topped with creamy dollops of sour cream and guacamole.",
+        "time":"50",
+        "category":"Signature for Four",
+        "price":"799",
+        "calories":"680"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36610/square_newsletter_images/1671543464-10429-0051-1971/0912_FPM_Seared-Steak-Mashed-Potatoes_092_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":53,
+        "name":"Seared Steaks & Soy Pan Sauce ",
+        "desc":"with Cheesy Scallion Mashed Potatoes & Sautéed Broccoli ",
+        "details":"This wholesome dish pairs rich steaks and a savory soy pan sauce with creamy mashed potatoes—mashed with sour cream and melty gouda cheese, then finished with the same seasonings beloved on the classic everything bagel like sesame seeds, poppy seeds, and dried garlic and onion.",
+        "time":"45",
+        "category":"Signature for Four",
+        "price":"645",
+        "calories":"768"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36611/square_newsletter_images/1671560273-51-0052-0015/0207_FP6_Spinach-Flatbread_330_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":54,
+        "name":"Creamy Mushroom & Spinach Flatbread",
+        "desc":"with Fontina & Garlic ",
+        "details":"To create this hearty pizza, we’re baking chewy focaccia bread under layers of creamed spinach, mushrooms, and onion, plus a duo of melty cheeses, then topping it all with pleasantly tart pickled peppers.",
+        "time":"50",
+        "category":"Signature for Four",
+        "price":"890",
+        "calories":"540"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36616/square_newsletter_images/1671540851-27270-0040-9899/1102_FPF_Hibachi-Fried-Rice_064_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":55,
+        "name":"Shrimp Fried Rice ",
+        "desc":"with Spiced Mayo",
+        "details":"Inspired by the popular Japanese-American hibachi dish, we’re creating a fried rice laden with tender bites of bok choy and carrots to pair with plump shrimp. It’s all drizzled with our take on the signature pink sauce (made with mirin, ketchup, mayonnaise, and more).",
+        "time":"40",
+        "category":"Signature for Four",
+        "price":"500",
+        "calories":"790" 
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36620/square_newsletter_images/1671543905-27270-0066-6945/0913_FPV_Curry-Peanut-Chicken_115_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":56,
+        "name":"Curry-Peanut Chicken",
+        "desc":"with White Rice & Marinated Vegetables ",
+        "details":"In this flavorful dish, chicken is dusted with a coating of cornstarch just before hitting a hot pan to create a delicate crust—perfect for soaking up our vibrant sauce, made with spicy yellow curry paste, smooth peanut butter spread, and creamy mayo. To contrast the bold flavors, we’re serving it over crisp marinated vegetables and a simple bed of white rice.",
+        "time":"60",
+        "category":"Signature for Four",
+        "price":"900",
+        "calories":"480"   
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36624/square_newsletter_images/1671541743-10429-0046-0661/0930_2PP-W1_Chicken_6272_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":57,
+        "name":"Garlic-Caper Chicken ",
+        "desc":"with Creamy Calabrian Zucchini & Orzo",
+        "details":"In this dish, a duo of aromatic garlic and briny capers—cooked briefly together to bring out their flavors—creates a simple, irresistible topping for our Italian-seasoned chicken. It all comes together over a bed of creamy orzo mixed with zucchini, which we’re cooking with a bit of Calabrian chile paste for a pleasant kick of heat 11 Points value per serving",
+        "time":"45",
+        "category":"Signature for Four",
+        "price":"1300",
+        "calories":"920"   
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36632/square_newsletter_images/1671544701-27270-0076-7652/0311_FPR05_Pesto-Pasta-Bake_3116_Square_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":58,
+        "name":"Cheesy Pesto Baked Cavatelli ",
+        "desc":" with Zucchini & Mushrooms ",
+        "details":"To create this satisfying pasta bake, you’ll mix sautéed veggies with tender bites of fresh cavatelli pasta, two kinds of melty cheese, and a dollop of herbaceous basil pesto. A layer of crispy breadcrumbs and a sprinkle of tangy parmesan cheese add more layers of delicious flavor and texture to this crowd-pleasing dish.",
+        "time":"40",
+        "category":"Signature for Four",
+        "price":"800",
+        "calories":"710"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/34940/square_newsletter_images/1671540749-11965-0034-4509/0130_ADD6_Broccoli-Cheddar-Smoked-Gouda-Soup_355_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":59,
+        "name":"Broccoli, Cheddar & Smoked Gouda Soup ",
+        "desc":"with Garlic Toast ",
+        "details":"For this rich, comforting soup, you'll cook broccoli florets in a mix of cream, chicken broth, and more before stirring in a duo of grated cheddar and smoked gouda until melted. A side of garlic-rubbed toast is perfect for dipping as you go.",
+        "time":"25",
+        "category":"Add-ons",
+        "price":"200",
+        "calories":"720"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36626/square_newsletter_images/1671541354-27270-0043-5156/0627_ADD04_Egg-Breakfast-Bowl_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":60,
+        "name":"Fried Egg Breakfast Bowls",
+        "desc":"with Roasted Potatoes, Feta & Avocado ",
+        "details":"Kickstart your day with these flavorful breakfast bowls, which feature roasted pepper and potatoes (coated with everything bagel seasonings) topped with avocado, fried eggs, tangy feta, and a drizzle of hot sauce.",
+        "time":"25",
+        "category":"Add-on",
+        "price":"400",
+        "calories":"650"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36655/square_newsletter_images/1671563986-51-0089-6352/0214_ADD1_Thyme-Biscuits_268_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":61,
+        "name":"Parmesan & Thyme Biscuits ",
+        "desc":"with Truffle Butter ",
+        "details":"These savory biscuits are made with fresh thyme, sour cream, and parmesan cheese, then baked until warm and flaky—perfect for soaking up rich truffle-seasoned butter.",
+        "time":"40",
+        "category":"Add-on",
+        "price":"200",
+        "calories":"540"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36657/square_newsletter_images/1671541398-11965-0043-0812/0808_ADD06_Focaccia-Sandwich_180_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":62,
+        "name":"Prosciutto Focaccia Sandwiches ",
+        "desc":"with Mozzarella & Pesto Mayo ",
+        "details":"These irresistible, crowd-pleasing sandwiches feature toasted, herby focaccia bread layered with pesto mayo, melted mozzarella cheese, roasted red peppers, and rich prosciutto.",
+        "time":"20",
+        "category":"Add-on",
+        "price":"450",
+        "calories":"320"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36690/square_newsletter_images/1671563620-49-0061-3370/0130_ADD2_Roasted-Vegetable-Spinach-Salad_379_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":63,
+        "name":"Roasted Vegetable & Avocado Salad ",
+        "desc":"with Pepitas & Brown Butter Vinaigrette ",
+        "details":"This colorful salad combines a duo of roasted sweet potatoes and onion with fresh spinach, creamy avocado, toasted pepitas, and a rich, nutty brown butter-dijon vinaigrette.",
+        "time":"25",
+        "category":"Add-on",
+        "price":"500",
+        "calories":"460"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36770/square_newsletter_images/1671567089-51-0097-5289/H_E_SpicyChickenStirFry_SQ.jpg?quality=80&width=850&format=pjpg",
+        "id":64,
+        "name":"Spicy Chicken Stir-Fry ",
+        "desc":"with Brown Rice ",
+        "details":"Need a night off from cooking? Our Heat & Eat meals step up the standards for pre-made meals, delivering Blue Apron quality and flavor, in minutes. White meat chicken, green beans, roasted red peppers and edamame get a kick of heat in this spicy stir-fry thanks to a soy glaze featuring sambal oelek (an Indonesian chile paste). Brown rice rounds out the meal.",
+        "time":"5",
+        "category":"Add-on",
+        "price":"950",
+        "calories":"350"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36840/square_newsletter_images/1671545103-11965-0077-5103/Salmon_Cooked_Pan_Protein_Add-On_025_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":65,
+        "name":"Skin-On Salmon Fillets ",
+        "desc":"A La Carte Proteins (photo as cooked) ",
+        "details":"Our Protein Add-ons provide you with quality meat, seafood, and plant-based options to supplement your weekly meals, stock your freezer, and get creative in the kitchen!",
+        "time":"10",
+        "category":"Add-on",
+        "price":"200",
+        "calories":"290"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36839/square_newsletter_images/1671545123-11965-0079-3176/Chicken-Pieces_Cooked_Plate_Protein_Add-on_010_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":66,
+        "name":"Boneless Chicken Breast Pieces ",
+        "desc":"A La Carte Proteins (photo as cooked) ",
+        "details":"Our Protein Add-ons provide you with quality meat, seafood, and plant-based options to supplement your weekly meals, stock your freezer, and get creative in the kitchen!",
+        "time":"10",
+        "category":"Add-on",
+        "price":"300",
+        "calories":"190"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36842/square_newsletter_images/1671545220-27270-0093-5046/Chorizo_Cooked-Pan_Protein_Add-On_166_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":67,
+        "name":"Pork Chorizo ",
+        "desc":"A La Carte Proteins (photo as cooked) ",
+        "details":"Our Protein Add-ons provide you with quality meat, seafood, and plant-based options to supplement your weekly meals, stock your freezer, and get creative in the kitchen!",
+        "time":"10",
+        "category":"Add-on",
+        "price":"500",
+        "calories":"270"    
+      },
+      {
+        "image":"https://media.blueapron.com/recipes/36843/square_newsletter_images/1671545154-11965-0084-4892/Black-Bean-Red-Pepper-Patties_Protein_Add-On_183_SQ_Web.jpg?quality=80&width=850&format=pjpg",
+        "id":68,
+        "name":"Black Bean & Red Pepper Patties ",
+        "desc":"A La Carte Proteins (photo as cooked) ",
+        "details":"Our Protein Add-ons provide you with quality meat, seafood, and plant-based options to supplement your weekly meals, stock your freezer, and get creative in the kitchen!",
+        "time":"15",
+        "category":"Add-on",
+        "price":"150",
+        "calories":"380"    
+      } 
+    
+],
+"users":[
+    {
+        "id":"100",
+        "name":"neeraj",
+        "email":"neeraj.singh.mahar11@gmail.com",
+        "password":"12345"
+    }
+],
+"cart":[
+    
+]
+
+}
